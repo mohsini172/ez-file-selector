@@ -3,6 +3,9 @@
   "displayName": "ez-file-selector",
   "description": "",
   "version": "0.0.1",
+  "publisher": "Mohsini172",
+  "repository": "https://github.com/mohsini172/ez-file-selector",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.91.0"
   },
